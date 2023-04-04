@@ -144,7 +144,7 @@ export const ChatInput: FC<Props> = ({ messageIsStreaming, model, messages, onSe
           rel="noreferrer"
           className="underline"
         >
-          ChatBot UI
+          ChatBot AI
         </a>
         . {t("Chatbot is an advanced chatbot kit for OpenAI's chat models aiming to mimic ChatGPT's interface and functionality.")}
       </div>
